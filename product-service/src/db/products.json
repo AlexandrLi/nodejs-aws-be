@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "artist": "Linkin Park",
+    "name": "Hybrid Theory",
+    "description": "Debut studio album by the American rock band, originally released in 2000.",
+    "price": "16.95",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0117/4483/7728/products/LINKINPARKHYBRIDTHEO_2019-12-19_08-10-32_9gvHCFTizU_44bc9192-3afb-41bd-b22e-40afed2aa3d1_1200x.png?v=1576743042"
+  },
+  {
+    "id": "2",
+    "artist": "Linkin Park",
+    "name": "Meteora",
+    "description": "Second studio album by the American nu metal band.",
+    "price": "36.95",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0117/4483/7728/products/LINKINPARKMETEORA_800x.png?v=1604162745"
+  },
+  {
+    "id": "3",
+    "artist": "Pink Floyd",
+    "name": "Dark side of the moon",
+    "description": "Eighth studio album by the legendary English progressive rock band.",
+    "price": "19.95",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0117/4483/7728/products/PINKFLOYDTHEDARKSID_2019-11-06_13-19-30_IDhCjZ8eWa_800x.png?v=1573046717"
+  },
+  {
+    "id": "4",
+    "artist": "Nirvana",
+    "name": "Nevermind",
+    "description": "Second studio album by the legendary American grunge band.",
+    "price": "21.95",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0117/4483/7728/products/NIRVANANEVERMIND_2019-11-06_13-19-30_RdVlJQpXlo_800x.png?v=1573047435"
+  }
+]
